@@ -1,0 +1,1 @@
+print("Master Oogway once said,\tYesterday is History,\tTomorrow is a mystery,\t but Today is a gift, \tthat is why it is called the Present \t")
